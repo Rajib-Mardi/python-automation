@@ -1,0 +1,3 @@
+[submodule "Automated-EC2-health-checks-configuration-and-backup-restore"]
+	path = Automated-EC2-health-checks-configuration-and-backup-restore
+	url = https://github.com/Rajib-Mardi/Automated-EC2-health-checks-configuration-and-backup-restore.git
